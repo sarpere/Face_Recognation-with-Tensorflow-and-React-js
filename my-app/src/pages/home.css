@@ -1,0 +1,20 @@
+canvas, .Cam{
+    position: absolute;
+    top:0;
+    right: 0;
+    z-index:9999;
+}
+.button{
+    position: relative;
+    float: right;
+    top:40px;
+    right: 35px;
+}
+
+.Students{
+    width: 50vw;
+}
+
+.top{
+    width: 100vw;
+}

@@ -1,0 +1,22 @@
+#Container{
+  width: 45%;
+  height: 40vh;
+  margin-left: 15px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top:10px;
+}
+#Adduser input{
+  display: block;
+  width: 45%;
+  margin: 20px;
+}
+#Adduser input{
+  display: block;
+  width: 45%;
+  margin: 20px;
+}
+
+input[type="submit"]{
+  height: 45px;
+}

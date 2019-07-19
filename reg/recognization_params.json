@@ -1,0 +1,4 @@
+{"facenet_model_pb": "reg\\embedding_model_checkpoint\\frozen.pb",
+ "threshold": 0.8,
+ "unknown": -1
+}

@@ -1,0 +1,7 @@
+{ "minsize": 20,
+  "threshold": [0.6, 0.7, 0.7],
+  "factor": 0.709,
+  "bbox_size": 160,
+  "margin": 32,
+  "model_dirname": "reg\\mtcnn_face_detector\\checkpoint"
+}
